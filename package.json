@@ -1,0 +1,23 @@
+{
+  "name": "miladrk-website",
+  "version": "1.0.0",
+  "description": "Milad Rezazadeh's personal website at www.miladrk.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/milianoo/miladrk.com.git"
+  },
+  "keywords": [
+    "personal",
+    "website"
+  ],
+  "author": "Milad Rezazadeh <milad.rk@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milianoo/miladrk.com/issues"
+  },
+  "homepage": "https://github.com/milianoo/miladrk.com#readme"
+}

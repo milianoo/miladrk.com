@@ -27,12 +27,6 @@
 
 ============================================================================= */
 
-.blog-icon {
-  position: absolute;
-  margin-top: 5px;
-  margin-left: 5px;
-}
-
 /* ============================================================================= 
 1. Fonts
 ============================================================================= */
@@ -101,6 +95,13 @@ body::-webkit-scrollbar-thumb {
   background-color: #9e9e9e;
   outline: 1px solid slategrey;
 }
+
+.blog-icon {
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
 
 a {
   color: #ff714a;
